@@ -21,9 +21,7 @@ A full-stack job portal connecting candidates and recruiters, with an integrated
 
 | My Applications | Auto Apply |
 |---|---|
-| ![My Applications](https://github.com/upputurisuman54/JobPortal/blob/master/Screenshots/Screenshot%202026-09-22%20110008.png?raw=true
-) | ![Auto Apply](https://github.com/upputurisuman54/JobPortal/blob/master/Screenshots/Screenshot%202026-09-22%20110031.png?raw=true
-) |
+| ![My Applications](https://github.com/upputurisuman54/JobPortal/blob/master/Screenshots/Screenshot%202026-09-22%20110008.png?raw=true) | ![Auto Apply](https://github.com/upputurisuman54/JobPortal/blob/master/Screenshots/Screenshot%202026-09-22%20110031.png?raw=true) |
 
 | Resume Management | AI Assistant |
 |---|---|
