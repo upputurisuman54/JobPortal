@@ -25,7 +25,7 @@ A full-stack job portal connecting candidates and recruiters, with an integrated
 
 | Resume Management | AI Assistant |
 |---|---|
-| ![Resume](screenshots/resume.png) | ![AI Assistant](screenshots/ai-assistant.png) |
+| ![Resume](https://github.com/upputurisuman54/JobPortal/blob/master/Screenshots/Screenshot%202026-09-22%20110047.png?raw=true) | ![AI Assistant](https://github.com/upputurisuman54/JobPortal/blob/master/Screenshots/Screenshot%202026-09-22%20110116.png?raw=true) |
 
 **Candidate Profile**
 
