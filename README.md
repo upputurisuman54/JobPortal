@@ -29,13 +29,13 @@ A full-stack job portal connecting candidates and recruiters, with an integrated
 
 **Candidate Profile**
 
-![Candidate Profile](screenshots/candidate-profile.png)
+![Candidate Profile](https://github.com/upputurisuman54/JobPortal/blob/master/Screenshots/Screenshot%202026-09-22%20110204.png?raw=true)
 
 ### Recruiter Experience
 
 | Recruiter Dashboard | Post a New Job |
 |---|---|
-| ![Recruiter Dashboard](screenshots/recruiter-dashboard.png) | ![Post Job](screenshots/post-job.png) |
+| ![Recruiter Dashboard](https://github.com/upputurisuman54/JobPortal/blob/master/Screenshots/Screenshot%202026-09-22%20110303.png?raw=true) | ![Post Job](https://github.com/upputurisuman54/JobPortal/blob/master/Screenshots/Screenshot%202026-09-22%20110455.png?raw=true) |
 
 ---
 
