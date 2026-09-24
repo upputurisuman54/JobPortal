@@ -17,7 +17,7 @@ A full-stack job portal connecting candidates and recruiters, with an integrated
 
 | Login | Browse Jobs |
 |---|---|
-| ![Login](screenshots/login.png) | ![Candidate Dashboard](screenshots/candidate-dashboard.png) |
+| ![Login](https://github.com/upputurisuman54/JobPortal/blob/master/Screenshots/Screenshot%202026-09-22%20105853.png?raw=true) | ![Candidate Dashboard](screenshots/candidate-dashboard.png) |
 
 | My Applications | Auto Apply |
 |---|---|
