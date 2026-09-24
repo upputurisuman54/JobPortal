@@ -11,6 +11,34 @@ A full-stack job portal connecting candidates and recruiters, with an integrated
 
 ---
 
+## Screenshots
+
+### Candidate Experience
+
+| Login | Browse Jobs |
+|---|---|
+| ![Login](screenshots/login.png) | ![Candidate Dashboard](screenshots/candidate-dashboard.png) |
+
+| My Applications | Auto Apply |
+|---|---|
+| ![My Applications](screenshots/my-applications.png) | ![Auto Apply](screenshots/auto-apply.png) |
+
+| Resume Management | AI Assistant |
+|---|---|
+| ![Resume](screenshots/resume.png) | ![AI Assistant](screenshots/ai-assistant.png) |
+
+**Candidate Profile**
+
+![Candidate Profile](screenshots/candidate-profile.png)
+
+### Recruiter Experience
+
+| Recruiter Dashboard | Post a New Job |
+|---|---|
+| ![Recruiter Dashboard](screenshots/recruiter-dashboard.png) | ![Post Job](screenshots/post-job.png) |
+
+---
+
 ## Table of Contents
 
 - [Overview](#overview)
